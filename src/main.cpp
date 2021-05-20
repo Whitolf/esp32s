@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <HardwareSerial.h>
 #include "amg8833.h"
-#include "rc522.h"
 #include <atsend.h>
 #include <Ultrasonic.h>
 #include "U8g2lib.h"
